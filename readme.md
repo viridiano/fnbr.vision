@@ -6,7 +6,7 @@
 
 ### 2. lectures
 
-- Stanford CS231n: Detection and Segmentation](https://youtu.be/nDPWywWRIRo) | [lecture slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)
+- [Stanford CS231n: Detection and Segmentation](https://youtu.be/nDPWywWRIRo) | [lecture slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)
 
 ### 3. blog posts
 
