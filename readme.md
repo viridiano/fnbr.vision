@@ -34,7 +34,7 @@ If you have no background in neural networks, you might well find one of these b
 
 - [labelme](https://github.com/wkentaro/labelme) *– Image Polygonal Annotation with Python*
 
-### 56. datasets
+### 6. datasets
 
 - [COCO](http://cocodataset.org) *– Common Objects in Context*
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com) *– benchmark suite and evaluation server for pixel-level and instance-level semantic labeling*
