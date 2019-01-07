@@ -2,7 +2,7 @@
 
 ### 1. papers
 
-1.1 Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 3431-3440). [[arXiv:1605.06211]](https://arxiv.org/abs/1605.06211) | [[dowload pdf]](https://github.com/viridiano/fnbr.vision/blob/master/papers/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf)
+- Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 3431-3440). [[arXiv:1605.06211]](https://arxiv.org/abs/1605.06211) | [[dowload pdf]](https://github.com/viridiano/fnbr.vision/blob/master/papers/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf)
 
 ### 2. books
 
