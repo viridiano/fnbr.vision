@@ -1,9 +1,5 @@
 ## fnbr.vision
 
-- ![Low][low] means that the item has a **low** priority.
-- ![Medium][medium] means that the item has a **medium** priority. You shouldn't avoid tackling that item.
-- ![High][high] means that the item has a **high** priority. You can't avoid that item.
-
 ### 1. papers
 
 - Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 3431-3440). [[arXiv:1605.06211]](https://arxiv.org/abs/1605.06211) | [[dowload pdf]](https://github.com/viridiano/fnbr.vision/blob/master/papers/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf)
@@ -44,6 +40,11 @@ If you have no background in neural networks, you might well find one of these b
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com) *– benchmark suite and evaluation server for pixel-level and instance-level semantic labeling*
 - [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) *– a diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world*
 - [ApolloScape Scene Parsing](http://apolloscape.auto/scene.html) *– RGB videos with high resolution image sequences and per pixel annotation, survey-grade dense 3D points with semantic segmentation*
+_____
+
+- ![Low][low] means that the item has a **low** priority.
+- ![Medium][medium] means that the item has a **medium** priority. You shouldn't avoid tackling that item.
+- ![High][high] means that the item has a **high** priority. You can't avoid that item.
 
 
 [low]: https://viridiano.com/s/low.svg
