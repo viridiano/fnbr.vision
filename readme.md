@@ -2,7 +2,11 @@
 
 ### 1. papers
 
-- Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In *Proceedings of the IEEE conference on computer vision and pattern recognition* (pp. 3431-3440). [[arXiv:1605.06211]](https://arxiv.org/abs/1605.06211) | [[dowload pdf]](https://github.com/viridiano/fnbr.vision/blob/master/papers/Fully%20Convolutional%20Networks%20for%20Semantic%20Segmentation.pdf)
+- SILBERER, Carina; PINKAL, Manfred. Grounding semantic roles in images. In: **Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.** 2018. p. 2616-2626. [[download PDF]](https://www.aclweb.org/anthology/D18-1282)
+- GUPTA, Saurabh; MALIK, Jitendra. Visual semantic role labeling. **arXiv preprint arXiv:1505.04474,** 2015. [[download PDF]](https://arxiv.org/pdf/1505.04474.pdf)
+- YANG, Shaohua et al. Grounded semantic role labeling. In: **Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.** 2016. p. 149-159. [[download PDF]](https://www.aclweb.org/anthology/N16-1019)
+- YATSKAR, Mark; ZETTLEMOYER, Luke; FARHADI, Ali. Situation recognition: Visual semantic role labeling for image understanding. In: **Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.** 2016. p. 5534-5542. [[download PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yatskar_Situation_Recognition_Visual_CVPR_2016_paper.pdf)
+- LONG, Jonathan; SHELHAMER, Evan; DARRELL, Trevor. Fully convolutional networks for semantic segmentation. In: **Proceedings of the IEEE conference on computer vision and pattern recognition.** 2015. p. 3431-3440. [[dowload pdf]](https://arxiv.org/pdf/1605.06211.pdf)
 
 ### 2. books
 
