@@ -44,6 +44,13 @@ If you have no background in neural networks, you might well find one of these b
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com) *– benchmark suite and evaluation server for pixel-level and instance-level semantic labeling*
 - [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) *– a diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world*
 - [ApolloScape Scene Parsing](http://apolloscape.auto/scene.html) *– RGB videos with high resolution image sequences and per pixel annotation, survey-grade dense 3D points with semantic segmentation*
+
+### 7. semantic parsers :bookmark:
+
+- [Google Sling](https://github.com/google/sling) *– Natural language frame semantics parser*
+- [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
+- [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
+- [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
 _____
 
 - ![Low][low] means that the item has a **low** priority.
