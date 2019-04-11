@@ -2,6 +2,7 @@
 
 ### 1. papers :page_facing_up:
 
+- MCKEVITT, Paul. MultiModal semantic representation. **SIGSEM Working Group on the Representation of MultiModal Semantic Information**, p. 1-16, 2003. [[download PDF]](http://uir.ulster.ac.uk/21402/1/msr.pdf)
 - SILBERER, Carina; PINKAL, Manfred. Grounding semantic roles in images. In: **Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.** 2018. p. 2616-2626. [[download PDF]](https://www.aclweb.org/anthology/D18-1282)
 - GUPTA, Saurabh; MALIK, Jitendra. Visual semantic role labeling. **arXiv preprint arXiv:1505.04474,** 2015. [[download PDF]](https://arxiv.org/pdf/1505.04474.pdf)
 - YANG, Shaohua et al. Grounded semantic role labeling. In: **Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.** 2016. p. 149-159. [[download PDF]](https://www.aclweb.org/anthology/N16-1019)
@@ -26,7 +27,7 @@ If you have no background in neural networks, you might well find one of these b
 - [Stanford cs231n: Detection and Segmentation](https://youtu.be/nDPWywWRIRo) | [lecture slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)
 - [Stanford cs224n: Lecture collection on NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
-### 4. blog posts :newspaper:
+### 4. blog posts :pushpin:
 
 - [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) *– how to use convolutional neural networks for the task of semantic image segmentation*
 - [Going beyond the bounding box with semantic segmentation](https://thegradient.pub/semantic-segmentation/)
@@ -45,7 +46,7 @@ If you have no background in neural networks, you might well find one of these b
 - [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) *– a diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world*
 - [ApolloScape Scene Parsing](http://apolloscape.auto/scene.html) *– RGB videos with high resolution image sequences and per pixel annotation, survey-grade dense 3D points with semantic segmentation*
 
-### 7. semantic parsers :bookmark:
+### 7. semantic parsers :ballot_box_with_check:
 
 - [Google Sling](https://github.com/google/sling) *– Natural language frame semantics parser*
 - [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
