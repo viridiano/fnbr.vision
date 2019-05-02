@@ -2,7 +2,7 @@
 
 ### 1. papers :page_facing_up:
 
-- COHN, Neil. A multimodal parallel architecture: A cognitive framework for multimodal interactions. **Cognition**, v. 146, p. 304-323, 2016. [[download PDF]](https://reader.elsevier.com/reader/sd/pii/S0010027715300858?token=3E7B71B9FABD27B145CC6E2E9FC535302FE305FDC85F6F70C4043E0DB92D0CCB41E9375568C327EF5BB85834803282E8)
+- COHN, Neil. A multimodal parallel architecture: A cognitive framework for multimodal interactions. **Cognition**, v. 146, p. 304-323, 2016. [[download PDF]](https://doi.org/10.1016/j.cognition.2015.10.007)
 - CHAI, Joyce; PAN, Shimei; ZHOU, Michelle X. MIND: A Semantics-based multimodal interpretation framework for conversational systems. In: **Proceedings of the International Workshop on Natural, Intelligent and Effective Interaction in Multimodal Dialogue Systems.** Springer-Verlag, 2002. p. 37-46. [[download PDF]](https://www.researchgate.net/profile/Malek_Boualem/publication/243962636_Implementing_and_evaluating_a_multimodal_and_multilingual_tourist_guide/links/557c110f08aeea18b7766620/Implementing-and-evaluating-a-multimodal-and-multilingual-tourist-guide.pdf#page=49)
 - MCKEVITT, Paul. MultiModal semantic representation. **SIGSEM Working Group on the Representation of MultiModal Semantic Information**, p. 1-16, 2003. [[download PDF]](http://uir.ulster.ac.uk/21402/1/msr.pdf)
 - SILBERER, Carina; PINKAL, Manfred. Grounding semantic roles in images. In: **Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.** 2018. p. 2616-2626. [[download PDF]](https://www.aclweb.org/anthology/D18-1282)
