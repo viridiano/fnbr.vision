@@ -13,7 +13,9 @@
 - YANG, Shaohua et al. Grounded semantic role labeling. In: **Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.** 2016. p. 149-159. [[download PDF]](https://www.aclweb.org/anthology/N16-1019)
 - YATSKAR, Mark; ZETTLEMOYER, Luke; FARHADI, Ali. Situation recognition: Visual semantic role labeling for image understanding. In: **Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.** 2016. p. 5534-5542. [[download PDF]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yatskar_Situation_Recognition_Visual_CVPR_2016_paper.pdf)
 - LONG, Jonathan; SHELHAMER, Evan; DARRELL, Trevor. Fully convolutional networks for semantic segmentation. In: **Proceedings of the IEEE conference on computer vision and pattern recognition.** 2015. p. 3431-3440. [[dowload pdf]](https://arxiv.org/pdf/1605.06211.pdf)
+-FILLMORE, Charles J. An alternative to checklist theories of meaning. In: **Annual Meeting of the Berkeley Linguistics Society.** 1975. p. 123-131. [[dowload pdf]](http://journals.linguisticsociety.org/proceedings/index.php/BLS/article/download/2315/2085)
 - FILLMORE, Charles J. et al. Frame semantics. **Cognitive linguistics: Basic readings**, v. 34, p. 373-400, 2006. [[dowload pdf]](https://s3.amazonaws.com/academia.edu.documents/56930879/Cognitive_Linguistics__Basic_Readings.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1556653987&Signature=cqR7QalZlj%2BdnCRz%2FKVECRys2TE%3D&response-content-disposition=inline%3B%20filename%3DCognitive_Linguistics_Basic_Readings.pdf#page=381)
+- FILLMORE, Charles J. The case for case reopened. **Syntax and semantics**, v. 8, n. 1977, p. 59-82, 1977.[[dowload pdf]](http://www.icsi.berkeley.edu/pubs/ai/casefor277.pdf)
 
 ### 2. books :books:
 
