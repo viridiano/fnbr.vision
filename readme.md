@@ -2,6 +2,7 @@
 
 ### 1. papers :page_facing_up:
 
+- Bonial, C., Bonn, J., Conger, K., Hwang, J. D., & Palmer, M. (2014, May). PropBank: Semantics of New Predicate Types. In **LREC** (pp. 3013-3019). [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf) :new:
 - ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download PDF]](https://www.aclweb.org/anthology/P17-1008) :new:
 - ROYCE, Terry; ROYCE, T. D.; BOWCHER, W. L. Intersemiotic complementarity: a framework for multimodal. **New directions in the analysis of multimodal discourse**, p. 63-109, 2007. [[download PDF]](https://s3.amazonaws.com/academia.edu.documents/32865031/Chap_02_Royce_-_Erlbaum.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1559668579&Signature=mkcmdOBsxWK1tnIxgdwLmONLM48%3D&response-content-disposition=inline%3B%20filename%3DIntersemiotic_Complementarity_A_Framewor.pdf)
 - MARTINEC, Radan; SALWAY, Andrew. A system for image–text relations in new (and old) media. **Visual communication**, v. 4, n. 3, p. 337-371, 2005. [[download PDF]](https://journals.sagepub.com/doi/pdf/10.1177/1470357205055928)
