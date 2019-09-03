@@ -2,7 +2,7 @@
 
 ### 1. papers :page_facing_up:
 
-- Bonial, C., Bonn, J., Conger, K., Hwang, J. D., & Palmer, M. (2014, May). PropBank: Semantics of New Predicate Types. In **LREC** (pp. 3013-3019). [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf) :new:
+- BONIAL, Claire et al. PropBank: Semantics of New Predicate Types. In: **LREC.** 2014. p. 3013-3019. [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf) :new:
 - ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download PDF]](https://www.aclweb.org/anthology/P17-1008) :new:
 - TORRENT, T. T.; ELLSWORTH, M.; BAKER, C. F.; MATOS, E. E. (2018). In: **Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)**, Miyazaki, Japan: ELRA, p. 62-68. [[download PDF]](http://lrec-conf.org/workshops/lrec2018/W5/pdf/12_W5.pdf)
 - DINIZ DA COSTA, A.; GAMONAL, M. A.; PAIVA, V. M. R. L.; MARÇÃO, N. D.; PERON-CORRÊA, S.; ALMEIDA, V. G.; MATOS, E. E. S.; TORRENT, T. T. (2018). In: **Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)**, Miyazaki, Japan: ELRA, p. 6-12. [[download PDF]](http://lrec-conf.org/workshops/lrec2018/W5/pdf/4_W5.pdf)
