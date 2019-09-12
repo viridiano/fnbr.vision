@@ -35,7 +35,7 @@ If you have no background in neural networks, you might well find one of these b
 
 ### 3. lectures :speech_balloon:
 
-- [Dan Jurafsky: Introduction to NLP](https://youtu.be/3Dt_yh1mf_U) :new:
+- [Dan Jurafsky and Christopher Manning: Introduction to NLP](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) :new:
 - [Stanford cs231n: Detection and Segmentation](https://youtu.be/nDPWywWRIRo) | [lecture slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)
 - [Stanford cs224n: Lecture collection on NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
