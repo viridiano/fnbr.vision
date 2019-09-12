@@ -57,6 +57,7 @@ If you have no background in neural networks, you might well find one of these b
 - [Cityscapes Dataset](https://www.cityscapes-dataset.com) *– benchmark suite and evaluation server for pixel-level and instance-level semantic labeling*
 - [Mapillary Vistas Dataset](https://www.mapillary.com/dataset/vistas) *– a diverse street-level imagery dataset with pixel‑accurate and instance‑specific human annotations for understanding street scenes around the world*
 - [ApolloScape Scene Parsing](http://apolloscape.auto/scene.html) *– RGB videos with high resolution image sequences and per pixel annotation, survey-grade dense 3D points with semantic segmentation*
+- [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html) *– A set of outdoor scenes with at least one foreground object*
 
 ### 7. semantic parsers :ballot_box_with_check:
 
