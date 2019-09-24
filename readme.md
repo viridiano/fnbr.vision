@@ -22,6 +22,9 @@
 
 ### 2. books :books:
 
+- MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999. [[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf) :new:
+- KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009. :new:
+
 The following texts are useful, but not required. All of them can be read free online.
 
 - Dan Jurafsky and James H. Martin. [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
@@ -51,6 +54,9 @@ If you have no background in neural networks, you might well find one of these b
 
 ### 6. datasets :cloud:
 
+- [AVA](https://research.google.com/ava/index.html) *– Spatio-temporal annotations of human actions in movies, suitable for training localized action recognition systems.* :new:
+- [YouTube BoundingBoxes](https://research.google.com/youtube-bb/) *– Large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations. All the video segments were human-annotated with high precision classifications and bounding boxes at 1 frame per second.* :new:
+- [What's Cookin'](http://storage.googleapis.com/whats_cookin/whats_cookin.zip) *– A list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.* :new:
 - [COCO](http://cocodataset.org) *– Common Objects in Context: a large-scale object detection, segmentation, and captioning dataset.*
 - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) *– A standardised image data sets for object class recognition and a common set of tools for accessing the data sets and annotations*
 - [PASCAL Context](https://www.cs.stanford.edu/~roozbeh/pascal-context/) *– Indoor and outdoor scenes with 400+ classes*
