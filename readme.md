@@ -2,8 +2,8 @@
 
 ### 1. papers :page_facing_up:
 
-- BONIAL, Claire et al. PropBank: Semantics of New Predicate Types. In: **LREC.** 2014. p. 3013-3019. [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf) :new:
-- ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download PDF]](https://www.aclweb.org/anthology/P17-1008) :new:
+- BONIAL, Claire et al. PropBank: Semantics of New Predicate Types. In: **LREC.** 2014. p. 3013-3019. [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf)
+- ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download PDF]](https://www.aclweb.org/anthology/P17-1008)
 - TORRENT, T. T.; ELLSWORTH, M.; BAKER, C. F.; MATOS, E. E. (2018). In: **Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)**, Miyazaki, Japan: ELRA, p. 62-68. [[download PDF]](http://lrec-conf.org/workshops/lrec2018/W5/pdf/12_W5.pdf)
 - DINIZ DA COSTA, A.; GAMONAL, M. A.; PAIVA, V. M. R. L.; MARÇÃO, N. D.; PERON-CORRÊA, S.; ALMEIDA, V. G.; MATOS, E. E. S.; TORRENT, T. T. (2018). In: **Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)**, Miyazaki, Japan: ELRA, p. 6-12. [[download PDF]](http://lrec-conf.org/workshops/lrec2018/W5/pdf/4_W5.pdf)
 - ROYCE, Terry; ROYCE, T. D.; BOWCHER, W. L. Intersemiotic complementarity: a framework for multimodal. **New directions in the analysis of multimodal discourse**, p. 63-109, 2007. [[download PDF]](https://s3.amazonaws.com/academia.edu.documents/32865031/Chap_02_Royce_-_Erlbaum.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1559668579&Signature=mkcmdOBsxWK1tnIxgdwLmONLM48%3D&response-content-disposition=inline%3B%20filename%3DIntersemiotic_Complementarity_A_Framewor.pdf)
@@ -19,6 +19,10 @@
 - FILLMORE, Charles J. An alternative to checklist theories of meaning. In: **Annual Meeting of the Berkeley Linguistics Society.** 1975. p. 123-131. [[dowload pdf]](http://journals.linguisticsociety.org/proceedings/index.php/BLS/article/download/2315/2085)
 - FILLMORE, Charles J. et al. Frame semantics. **Cognitive linguistics: Basic readings**, v. 34, p. 373-400, 2006. [[dowload pdf]](https://s3.amazonaws.com/academia.edu.documents/56930879/Cognitive_Linguistics__Basic_Readings.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1556653987&Signature=cqR7QalZlj%2BdnCRz%2FKVECRys2TE%3D&response-content-disposition=inline%3B%20filename%3DCognitive_Linguistics_Basic_Readings.pdf#page=381)
 - FILLMORE, Charles J. The case for case reopened. **Syntax and semantics**, v. 8, n. 1977, p. 59-82, 1977.[[dowload pdf]](http://www.icsi.berkeley.edu/pubs/ai/casefor277.pdf)
+- FILLMORE, C. J., PETRUCK, M. R., RUPPENHOFER, J., & WRIGHT, A. (2003). FrameNet in action: The case of attaching. **International journal of lexicography**, 16(3), 297-332. [[download pdf]](https://core.ac.uk/download/pdf/83654409.pdf)
+- FILLMORE, C. J., & ATKINS, B. T. (1992). Toward a frame-based lexicon: The semantics of RISK and its neighbors. In: **Frames, fields, and contrasts: New essays in semantic and lexical organization**, 103, 75-102. [[doanload pdf]](www.icsi.berkeley.edu/pubs/ai/towarda92.pdf)
+- TORRET, T. T., DA SILVA MATOS, E. E., LAGE, L., LAVIOLA, A., DA SILVA TAVARES, T., DE ALMEIDA, V. G., & SIGILIANO, N. (2018). Towards continuity between the lexicon and the constructicon in FrameNet Brasil. In Lyngfelt, B.; Borin, L.; Ohara, K.; Torrent, T. T. **Constructicography: Constructicon development across languages** (pp. 107-140). Amsterdam: John Benjamins. [[doanload pdf]](https://www.jbe-platform.com/content/books/9789027263865)
+
 
 ### 2. books :books:
 
