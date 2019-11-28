@@ -31,14 +31,15 @@
 * KOEHN, Philipp. **Neural machine translation.** arXiv preprint arXiv:1709.07809, 2017. [[download pdf]](https://arxiv.org/pdf/1709.07809.pdf)
 * KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009.
 * GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017.
+* HUTCHINS, William John; SOMERS, Harold L. **An introduction to machine translation.** London: Academic Press, 1992.
 
-The following texts are useful, but not required. All of them can be read free online.
+*The following texts are useful, but not required. All of them can be read free online.*
 
 * Dan Jurafsky and James H. Martin. [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](http://www.deeplearningbook.org)
 
-If you have no background in neural networks, you might well find one of these books helpful to give you more background:
+*If you have no background in neural networks, you might well find one of these books helpful to give you more background:*
 
 * Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * Eugene Charniak. [Introduction to Deep Learning](https://mitpress.mit.edu/books/introduction-deep-learning)
