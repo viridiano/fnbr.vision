@@ -27,9 +27,9 @@
 
 ### 2. books :books:
 
-* MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999. [[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf) :new:
-* KOEHN, Philipp. **Neural machine translation.** arXiv preprint arXiv:1709.07809, 2017. [[download pdf]](https://arxiv.org/pdf/1709.07809.pdf) :new:
-* KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009. :new:
+* MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999. [[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf)
+* KOEHN, Philipp. **Neural machine translation.** arXiv preprint arXiv:1709.07809, 2017. [[download pdf]](https://arxiv.org/pdf/1709.07809.pdf)
+* KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009. [[download pdf]](https://pdfs.semanticscholar.org/2473/28a082d86199ed5a98e1d726aa205c1da9df.pdf)
 
 The following texts are useful, but not required. All of them can be read free online.
 
