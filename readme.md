@@ -56,6 +56,7 @@ If you have no background in neural networks, you might well find one of these b
 
 ### 5. tools :hammer:
 
+* [YOLOv3](https://pjreddie.com/darknet/yolo/) *– Real-Time Object Detection*
 * [labelme](https://github.com/wkentaro/labelme) *– Image Polygonal Annotation with Python*
 
 ### 6. datasets :cloud:
