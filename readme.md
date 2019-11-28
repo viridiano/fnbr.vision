@@ -2,7 +2,7 @@
 
 ### 1. papers :page_facing_up:
 
-* ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download pdf]](https://www.aclweb.org/anthology/P17-1008) ![vsrl](https://img.shields.io/static/v1?label=&message=vsrl&color=orange)
+* ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download pdf]](https://www.aclweb.org/anthology/P17-1008)
 * BHAGAT, P. K.; CHOUDHARY, Prakash. Image annotation: Then and now. **Image and Vision Computing,** v. 80, p. 1-23, 2018. [[download pdf]](https://www.sciencedirect.com/science/article/pii/S0262885618301628)
 * BONIAL, Claire et al. PropBank: Semantics of New Predicate Types. In: **LREC.** 2014. p. 3013-3019. [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf)
 * CHAI, Joyce; PAN, Shimei; ZHOU, Michelle X. MIND: A Semantics-based multimodal interpretation framework for conversational systems. In: **Proceedings of the International Workshop on Natural, Intelligent and Effective Interaction in Multimodal Dialogue Systems.** Springer-Verlag, 2002. p. 37-46. [[download pdf]](https://www.researchgate.net/profile/Malek_Boualem/publication/243962636_Implementing_and_evaluating_a_multimodal_and_multilingual_tourist_guide/links/557c110f08aeea18b7766620/Implementing-and-evaluating-a-multimodal-and-multilingual-tourist-guide.pdf#page=49) ![multimodality](https://img.shields.io/static/v1?label=&message=multimodality&color=green)
