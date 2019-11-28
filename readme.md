@@ -2,6 +2,8 @@
 
 ### 1. papers :page_facing_up:
 
+* KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009.[[download pdf]](https://pdfs.semanticscholar.org/2473/28a082d86199ed5a98e1d726aa205c1da9df.pdf)
+* MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999.[[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf)
 * REIMERINK, Arianne; DE QUESADA, Mercedes García; MONTERO-MARTÍNEZ, Silvia. Contextual information in terminological knowledge bases: A multimodal approach. **Journal of pragmatics**, v. 42, n. 7, p. 1928-1950, 2010. [[download pdf]](https://s3.amazonaws.com/academia.edu.documents/48477241/Contextual_information_in_terminological20160831-25332-9lzmdl.pdf?response-content-disposition=inline%3B%20filename%3DContextual_information_in_terminological.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20191105%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20191105T125216Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=0b5f4913427d7adc1b20cadf71cdd079505f5cbfd0c4f45be92b3240a62b860b)
 * BONIAL, Claire et al. PropBank: Semantics of New Predicate Types. In: **LREC.** 2014. p. 3013-3019. [[download pdf]](https://pdfs.semanticscholar.org/0f18/060a4c86a3fd81c4c01cc3de55b902dec08d.pdf)
 * ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download pdf]](https://www.aclweb.org/anthology/P17-1008)
