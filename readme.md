@@ -65,6 +65,7 @@
 
 * [YOLOv3](https://pjreddie.com/darknet/yolo/) *– Real-Time Object Detection*
 * [labelme](https://github.com/wkentaro/labelme) *– Image Polygonal Annotation with Python*
+* [Figure Eight](https://www.figure-eight.com) *– If you need labels and annotations for your machine learning project, we can help. You upload your unlabeled data, with the rules you need for your machine learning project, and launch. We use a distributed network of human annotators and cutting edge machine learning models to annotate that data at enterprise scale*
 
 ### 6. datasets :cloud:
 
@@ -86,6 +87,7 @@
 * [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
 * [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
 * [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
+
 _____
 
 * ![Low][low] means that the item has a **low** priority.
