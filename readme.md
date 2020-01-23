@@ -1,6 +1,7 @@
 ## fnbr.vision
 
 ### 1. papers :page_facing_up:
+###### Use Zotero? [Go to my library.](https://www.zotero.org/viridiano/library)
 
 * ABEND, Omri; RAPPOPORT, Ari. The state of the art in semantic representation. In: **Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).** 2017. p. 77-89. [[download pdf]](https://www.aclweb.org/anthology/P17-1008)
 * BHAGAT, P. K.; CHOUDHARY, Prakash. Image annotation: Then and now. **Image and Vision Computing,** v. 80, p. 1-23, 2018. [[download pdf]](https://www.sciencedirect.com/science/article/pii/S0262885618301628)
