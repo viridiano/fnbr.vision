@@ -88,14 +88,3 @@
 * [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
 * [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
 * [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
-
-_____
-
-* ![Low][low] means that the item has a **low** priority.
-* ![Medium][medium] means that the item has a **medium** priority. You shouldn't avoid tackling that item.
-* ![High][high] means that the item has a **high** priority. You can't avoid that item.
-
-
-[low]: https://viridiano.com/s/low.svg
-[medium]: https://viridiano.com/s/medium.svg
-[high]: https://viridiano.com/s/high.svg
