@@ -70,7 +70,7 @@
 
 ### 6. datasets :cloud:
 
-* [Open Images V6](https://storage.googleapis.com/openimages/web/index.html) *– 478,000 crowdsourced images with 6,000+ categories*
+* [Open Images V6](https://storage.googleapis.com/openimages/web/index.html) *– ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narratives*
 * [AVA](https://research.google.com/ava/index.html) *– Spatio-temporal annotations of human actions in movies, suitable for training localized action recognition systems.*
 * [YouTube BoundingBoxes](https://research.google.com/youtube-bb/) *– Large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations. All the video segments were human-annotated with high precision classifications and bounding boxes at 1 frame per second.*
 * [What's Cookin'](http://storage.googleapis.com/whats_cookin/whats_cookin.zip) *– A list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.*
