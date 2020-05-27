@@ -62,6 +62,8 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 | [AVA](https://research.google.com/ava/index.html) | [Roth et al. 2019] [arXiv:1901.01342](https://arxiv.org/abs/1901.01342) | Spatio-temporal audiovisual annotations of human actions in movies, suitable for training localized action recognition systems |
 | [Open Images](https://storage.googleapis.com/openimages/web/index.html) | [Kuznetsova et al. 2018] [arXiv:1811.00982](https://arxiv.org/abs/1811.00982) | ~9M images annotated with image-level labels, object bounding boxes, object segmentation masks, visual relationships, and localized narrative |
 
+Also...
+
 * [YouTube BoundingBoxes](https://research.google.com/youtube-bb/) *– Large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations. All the video segments were human-annotated with high precision classifications and bounding boxes at 1 frame per second.*
 * [What's Cookin'](http://storage.googleapis.com/whats_cookin/whats_cookin.zip) *– A list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.*
 * [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) *– A standardised image data sets for object class recognition and a common set of tools for accessing the data sets and annotations*
