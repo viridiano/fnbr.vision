@@ -63,7 +63,6 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 * [AVA](https://research.google.com/ava/index.html) *– Spatio-temporal annotations of human actions in movies, suitable for training localized action recognition systems.*
 * [YouTube BoundingBoxes](https://research.google.com/youtube-bb/) *– Large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations. All the video segments were human-annotated with high precision classifications and bounding boxes at 1 frame per second.*
 * [What's Cookin'](http://storage.googleapis.com/whats_cookin/whats_cookin.zip) *– A list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.*
-* [COCO](http://cocodataset.org) *– Common Objects in Context: a large-scale object detection, segmentation, and captioning dataset.*
 * [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) *– A standardised image data sets for object class recognition and a common set of tools for accessing the data sets and annotations*
 * [PASCAL Context](https://www.cs.stanford.edu/~roozbeh/pascal-context/) *– Indoor and outdoor scenes with 400+ classes*
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/) *– State of the art benchmark for evaluation of articulated human pose estimation*
