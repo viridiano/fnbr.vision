@@ -53,7 +53,7 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 
 ### 7. datasets :cloud:
 
-| Dataset Repository                | Paper          | 
+| Dataset Repo                      | Paper          | 
 | :-------------------------------- | :------------- |
 | [Multi 30K](https://github.com/multi30k/dataset)   | [Elliott et al. 2016] Elliott, D., Frank, S., Sima'an, K., & Specia, L. (2016). [Multi30k: Multilingual english-german image descriptions.](https://arxiv.org/abs/1605.00459) *arXiv preprint arXiv:1605.00459.* |
 | [Flickr 30K](http://shannon.cs.illinois.edu/DenotationGraph/data/index.html)  | [Young et al. 2014] Young, P., Lai, A., Hodosh, M., & Hockenmaier, J. (2014). [From image descriptions to visual denotations: New similarity metrics for semantic inference over event descriptions.](https://www.aclweb.org/anthology/Q14-1006) *Transactions of the Association for Computational Linguistics*, 2, 67-78. |
