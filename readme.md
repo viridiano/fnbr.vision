@@ -21,12 +21,12 @@ The following texts are useful, but not required. All of them can be read free o
 * Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](http://www.deeplearningbook.org)
 
-If you have no background in Neural Networks, you might well find one of these books helpful to give you more background:*
+If you have no background in Neural Networks, you might well find one of these books helpful to give you more background:
 
 * Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * Eugene Charniak. [Introduction to Deep Learning](https://mitpress.mit.edu/books/introduction-deep-learning)
 
-For learning about Deep Learning for NLP, take the [Stanford cs224n online course](http://web.stanford.edu/class/cs224n/) or watch the [Stanford cs224n Lecture collection on NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)... and read [Yoav Goldberg's primer](https://jair.org/index.php/jair/article/view/11030) doi.org/10.1613/jair.4992.
+For learning about Deep Learning for NLP, take the [Stanford cs224n online course](http://web.stanford.edu/class/cs224n/) or watch the [Stanford cs224n Lecture collection on NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6).
 
 ### 3. lectures :speech_balloon:
 
