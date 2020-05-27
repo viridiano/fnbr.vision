@@ -10,7 +10,7 @@ Study the fundamentals first by reading Speech and Language Processing, 2nd Edit
 
 Also...
 
-* GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017 (doi.org/10.2200/S00762ED1V01Y201703HLT037... you know what to do)
+* GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017 ![doi] doi.org/10.2200/S00762ED1V01Y201703HLT037 *(you know what to do)*
 * HUTCHINS, William John; SOMERS, Harold L. **An introduction to machine translation.** London: Academic Press, 1992.
 * MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999. [[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf)
 * KOEHN, Philipp. **Neural machine translation.** arXiv preprint arXiv:1709.07809, 2017. [[download pdf]](https://arxiv.org/pdf/1709.07809.pdf)
@@ -72,3 +72,5 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 * [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
 * [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
 * [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
+
+[doi]:http://viridiano.com/s/doi_16x16.png
