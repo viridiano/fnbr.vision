@@ -10,18 +10,18 @@ Study the fundamentals first by reading Speech and Language Processing, 2nd Edit
 
 Also...
 
-* GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017 (doi.org/10.2200/S00762ED1V01Y201703HLT037)
+* GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017 (doi.org/10.2200/S00762ED1V01Y201703HLT037... you know what to do)
 * HUTCHINS, William John; SOMERS, Harold L. **An introduction to machine translation.** London: Academic Press, 1992.
 * MANNING, Christopher D.; MANNING, Christopher D.; SCHÜTZE, Hinrich. **Foundations of statistical natural language processing.** MIT press, 1999. [[download pdf]](http://thuvien.thanglong.edu.vn:8081/dspace/bitstream/DHTL_123456789/4027/1/cs511-1.pdf)
 * KOEHN, Philipp. **Neural machine translation.** arXiv preprint arXiv:1709.07809, 2017. [[download pdf]](https://arxiv.org/pdf/1709.07809.pdf)
 * KOEHN, Philipp. **Statistical machine translation.** Cambridge University Press, 2009.
 
-The following texts are useful, but not required. All of them can be read free online.*
+The following texts are useful, but not required. All of them can be read free online.
 
 * Yoav Goldberg. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * Ian Goodfellow, Yoshua Bengio, and Aaron Courville. [Deep Learning](http://www.deeplearningbook.org)
 
-If you have no background in neural networks, you might well find one of these books helpful to give you more background:*
+If you have no background in Neural Networks, you might well find one of these books helpful to give you more background:*
 
 * Michael A. Nielsen. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * Eugene Charniak. [Introduction to Deep Learning](https://mitpress.mit.edu/books/introduction-deep-learning)
@@ -40,6 +40,7 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 
 ### 5. blog posts :pushpin:
 
+* [A complete overview of ML online courses](https://www.freecodecamp.org/news/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) *– Every single Machine Learning course on the internet, ranked by your reviews*
 * [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) *– how to use convolutional neural networks for the task of semantic image segmentation*
 * [Going beyond the bounding box with semantic segmentation](https://thegradient.pub/semantic-segmentation/)
 * [Semantic Image Segmentation with DeepLab in TensorFlow](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
