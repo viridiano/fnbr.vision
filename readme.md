@@ -2,7 +2,9 @@
 
 ### 1. papers :page_facing_up:
 
-* [Check my Zotero library.](https://www.zotero.org/viridiano/library)
+BELCAVELLO, F.; VIRIDIANO, M.; DINIZ DA COSTA, A.; MATOS, E. E.; TORRENT, T. T. (2020). Frame-Based Annotation of Multimodal Corpora: Tracking (A)Synchronies in Meaning Construction. In: **Proceedings of the LREC International FrameNet Workshop 2020**. Marseille, France: ELRA, p. 23-30. [![bibtex](https://img.shields.io/static/v1?label=&message=bibtex&color=blue)](https://www.aclweb.org/anthology/2020.framenet-1.4.bib) [![pdf](https://img.shields.io/static/v1?label=&message=pdf&color=red)](https://www.aclweb.org/anthology/2020.framenet-1.4.pdf)
+
+* [My Zotero library.](https://www.zotero.org/viridiano/library)
 
 ### 2. books :books:
 
