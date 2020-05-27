@@ -73,9 +73,9 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 
 ### 8. semantic parsers :ballot_box_with_check:
 
+* [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/) *– automatically processes English sentences according to the form of semantic analysis in Berkeley FrameNet.*
 * [Google Sling](https://github.com/google/sling) *– Natural language frame semantics parser*
 * [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
 * [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
-* [SEMAFOR](http://www.cs.cmu.edu/~ark/SEMAFOR/)
 
 [doi]:http://viridiano.com/s/doi_16x16.png
