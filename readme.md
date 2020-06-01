@@ -6,19 +6,6 @@ BELCAVELLO, F.; VIRIDIANO, M.; DINIZ DA COSTA, A.; MATOS, E. E.; TORRENT, T. T. 
 
 BELCAVELLO, F.; DINIZ DA COSTA, A.; ALMEIDA, V. ; VIRIDIANO, M.; TORRENT, T. T. (2019). Multimodal Analysis for Building Semantic Representations in The Tourism Domain Using Frames and Qualia. In: **4th Bremen Conference on Multimodality (BreMM19) 2019 Conference Procedings**. Bremem, Germany. p. 1-5. [![pdf](https://img.shields.io/static/v1?label=&message=pdf&color=red)](https://github.com/viridiano/fnbr.vision/blob/master/papers/belcavello_etal_multimodal_2019.pdf) [![bibtex](https://img.shields.io/static/v1?label=&message=bibtex&color=blue)](https://raw.githubusercontent.com/viridiano/fnbr.vision/master/papers/belcavello_etal_multimodal_2019.bib)
 
-![complete](https://img.shields.io/static/v1?label=&message=complete&color=green) = done and ready for User Acceptance Testing (UAT)<br>
-![uat-passed](https://img.shields.io/static/v1?label=UAT&message=passed&color=success) = ready to merge with Master<br>
-![uat-failed](https://img.shields.io/static/v1?label=UAT&message=failed&color=red) = followed by what needs to be corrected<br>
-![deployed](https://img.shields.io/static/v1?label=&message=deployed&color=success) = merged with Master<br>
-![carryover](https://img.shields.io/static/v1?label=&message=carryover&color=yellow) = a task deferred from one week to the next<br>
-![help](https://img.shields.io/static/v1?label=&message=need_help&color=blue) = task need help from mentors<br>
-![definition](https://img.shields.io/static/v1?label=&message=needs_definition&color=orange) = blocked task that needs discussion with mentors<br>
-![important](https://img.shields.io/static/v1?label=&message=important&color=red) = something that needs to be addressed immediately<br>
-![uat-passed](https://img.shields.io/static/v1?label=UAT&message=passed&color=success)<br>
-
-
-Use [Shields.io](https://shields.io) to creat new tags if needed.
-
 * [My Zotero library.](https://www.zotero.org/viridiano/library)
 
 ### 2. books :books:
