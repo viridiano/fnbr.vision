@@ -34,12 +34,15 @@ For learning about Deep Learning for NLP, take the [Stanford cs224n online cours
 
 ### 3. lectures :speech_balloon:
 
-* [Dan Jurafsky and Christopher Manning: Introduction to NLP](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm) :new:
-* [Stanford cs231n: Detection and Segmentation](https://youtu.be/nDPWywWRIRo) | [lecture slides](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf)
-* [Stanford cs224n: Lecture collection on NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io) has the most comprehensive database of online courses on NLP and ML.
+
+Also...
+
+* [Dan Jurafsky and Christopher Manning: Introduction to NLP](https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm)
 
 ### 4. repos :octocat:
 
+* [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap) *– Roadmap and keyword for students those who have interest in learning Natural Language Processing* 
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) *– Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks, by [@sebastianruder](https://github.com/sebastianruder)*
 
 ### 5. blog posts :pushpin:
