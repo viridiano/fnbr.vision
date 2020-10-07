@@ -47,6 +47,8 @@ Also...
 
 ### 5. blog posts :pushpin:
 
+* [Image Data Labelling and Annotation](https://towardsdatascience.com/image-data-labelling-and-annotation-everything-you-need-to-know-86ede6c684b1) *– Image annotation types, formats and tools*
+* [Object Detection and Tracking in 2020](https://blog.netcetera.com/object-detection-and-tracking-in-2020-f10fb6ff9af3)
 * [A complete overview of ML online courses](https://www.freecodecamp.org/news/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0) *– Every single Machine Learning course on the internet, ranked by your reviews*
 * [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) *– how to use convolutional neural networks for the task of semantic image segmentation*
 * [Going beyond the bounding box with semantic segmentation](https://thegradient.pub/semantic-segmentation/)
@@ -55,7 +57,12 @@ Also...
 ### 6. tools :hammer:
 
 * [YOLOv3](https://pjreddie.com/darknet/yolo/) *– Real-Time Object Detection*
+* [MakeSense.AI](https://www.makesense.ai) *– An open-source and free to use annotation tool under GPLv3*
+* [ScaLabel](https://scalabel.ai) *– A scalable open-source web annotation tool*
+* [RectLabel](https://rectlabel.com) *– An image annotation tool to label images for bounding box object detection and segmentation*
 * [labelme](https://github.com/wkentaro/labelme) *– Image Polygonal Annotation with Python*
+* [LabelImg](https://github.com/tzutalin/labelImg) *– A graphical image annotation tool written in Python.
+* [VGG Image Annotator](https://gitlab.com/vgg/via) *– A standalone image annotator application packaged as a single HTML file (< 400 KB) that runs on most modern web browsers*
 * [Figure Eight](https://www.figure-eight.com) *– If you need labels and annotations for your machine learning project, we can help. You upload your unlabeled data, with the rules you need for your machine learning project, and launch. We use a distributed network of human annotators and cutting edge machine learning models to annotate that data at enterprise scale*
 
 ### 7. datasets :cloud:
