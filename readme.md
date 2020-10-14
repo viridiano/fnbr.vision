@@ -63,7 +63,7 @@ Also...
 * [ScaLabel](https://scalabel.ai) *– A scalable open-source web annotation tool*
 * [RectLabel](https://rectlabel.com) *– An image annotation tool to label images for bounding box object detection and segmentation*
 * [labelme](https://github.com/wkentaro/labelme) *– Image Polygonal Annotation with Python*
-* [LabelImg](https://github.com/tzutalin/labelImg) *– A graphical image annotation tool written in Python.
+* [LabelImg](https://github.com/tzutalin/labelImg) *– A graphical image annotation tool written in Python.*
 * [VGG Image Annotator](https://gitlab.com/vgg/via) *– A standalone image annotator application packaged as a single HTML file (< 400 KB) that runs on most modern web browsers*
 * [Figure Eight](https://www.figure-eight.com) *– If you need labels and annotations for your machine learning project, we can help. You upload your unlabeled data, with the rules you need for your machine learning project, and launch. We use a distributed network of human annotators and cutting edge machine learning models to annotate that data at enterprise scale*
 
