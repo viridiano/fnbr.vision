@@ -44,7 +44,9 @@ Also...
 
 ### 4. repos :octocat:
 
-* [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap) *– Roadmap and keyword for students those who have interest in learning Natural Language Processing* 
+* [NLP Pandect](https://github.com/ivan-bilan/The-NLP-Pandect) *–  a fantastically detailed, curated collection of NLP resources on everything NLP — from general information resources, to frameworks, to podcsats and Youtube channels*
+* [NLP Tutorial](https://github.com/graykode/nlp-tutorial) *– includes lots of minimal walk-throughs of NLP models implemented with less than 100 lines of code*
+* [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap) *– roadmap and keyword for students those who have interest in learning Natural Language Processing* 
 * [NLP Progress](https://github.com/sebastianruder/NLP-progress) *– Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks, by [@sebastianruder](https://github.com/sebastianruder)*
 
 ### 5. blog posts :pushpin:
@@ -80,6 +82,7 @@ Also...
 
 Also...
 
+* [The Big Bad NLP Database](https://datasets.quantumstat.com)
 * [YouTube BoundingBoxes](https://research.google.com/youtube-bb/) *– Large-scale data set of video URLs with densely-sampled high-quality single-object bounding box annotations. All the video segments were human-annotated with high precision classifications and bounding boxes at 1 frame per second.*
 * [What's Cookin'](http://storage.googleapis.com/whats_cookin/whats_cookin.zip) *– A list of cooking-related Youtube video ids, along with time stamps marking the (estimated) start and end of various events.*
 * [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) *– A standardised image data sets for object class recognition and a common set of tools for accessing the data sets and annotations*
