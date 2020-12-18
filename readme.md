@@ -4,7 +4,7 @@
 
 BELCAVELLO, F.; VIRIDIANO, M.; DINIZ DA COSTA, A.; MATOS, E. E.; TORRENT, T. T. (2020). Frame-Based Annotation of Multimodal Corpora: Tracking (A)Synchronies in Meaning Construction. In: **Proceedings of the LREC International FrameNet Workshop 2020**. Marseille, France: ELRA, p. 23-30. [![pdf](https://img.shields.io/static/v1?label=&message=pdf&color=red)](https://www.aclweb.org/anthology/2020.framenet-1.4.pdf) [![bibtex](https://img.shields.io/static/v1?label=&message=bibtex&color=blue)](https://www.aclweb.org/anthology/2020.framenet-1.4.bib)
 
-BELCAVELLO, F.; DINIZ DA COSTA, A.; ALMEIDA, V. ; VIRIDIANO, M.; TORRENT, T. T. (2019). Multimodal Analysis for Building Semantic Representations in The Tourism Domain Using Frames and Qualia. In: **4th Bremen Conference on Multimodality (BreMM19) 2019 Conference Procedings**. Bremem, Germany. p. 1-5. [![pdf](https://img.shields.io/static/v1?label=&message=pdf&color=red)](https://github.com/viridiano/fnbr.vision/blob/master/papers/FrameNet-BR_abstract_Bremen_2019.pdf) [![bibtex](https://img.shields.io/static/v1?label=&message=bibtex&color=blue)](https://raw.githubusercontent.com/viridiano/fnbr.vision/master/papers/belcavello_etal_multimodal_2019.bib)
+BELCAVELLO, F.; DINIZ DA COSTA, A.; ALMEIDA, V. ; VIRIDIANO, M.; TORRENT, T. T. (2019). Multimodal Analysis for Building Semantic Representations in The Tourism Domain Using Frames and Qualia. In: **4th Bremen Conference on Multimodality (BreMM19) 2019 Conference Procedings**. Bremem, Germany. [![pdf](https://img.shields.io/static/v1?label=&message=pdf&color=red)](https://github.com/viridiano/fnbr.vision/blob/master/papers/FrameNet-BR_abstract_Bremen_2019.pdf)
 
 * [My Zotero library.](https://www.zotero.org/viridiano/library)
 
