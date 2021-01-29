@@ -62,7 +62,7 @@ Also...
 
 
 * [SRITagging](http://xor.isti.cnr.it:8000/login.html)
-* [ImageGraph](http://www.imagegraph.cc)
+* [ImageGraph](http://www.imagegraph.cc) *– Visual Computing made easy. Computer Vision. Image Processing. Data Visualization. All drag-and-drop in the browser.*
 * [YOLOv3](https://pjreddie.com/darknet/yolo/) *– Real-Time Object Detection*
 * [MakeSense.AI](https://www.makesense.ai) *– An open-source and free to use annotation tool under GPLv3*
 * [ScaLabel](https://scalabel.ai) *– A scalable open-source web annotation tool*
