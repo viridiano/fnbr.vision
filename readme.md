@@ -100,4 +100,9 @@ Also...
 * [Open Sesame](https://github.com/swabhs/open-sesame) *– Frame-semantic parsing system based on a softmax-margin SegRNN*
 * [PathLSMT](https://github.com/microth/PathLSTM) *– Neural SRL model*
 
+### 9. annotation tools
+
+* [SRITagging](http://xor.isti.cnr.it:8000/login.html)
+* [ImageGraph](http://www.imagegraph.cc)
+
 [doi]:http://viridiano.com/s/doi_16x16.png
