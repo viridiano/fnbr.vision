@@ -14,7 +14,7 @@ Study the fundamentals first by reading Speech and Language Processing, 2nd Edit
 
 Also...
 
-* BENDER, Emily M. Linguistic fundamentals for natural language processing: 100 essentials from morphology and syntax. **Synthesis lectures on human language technologies**, v. 6, n. 3, p. 1-184, 2013. ![doi]`10.2200/S00493ED1V01Y201303HLT020` *(you know what to do)*
+* BENDER, Emily M. Linguistic fundamentals for natural language processing: 100 essentials from morphology and syntax. **Synthesis lectures on human language technologies**, v. 6, n. 3, p. 1-184, 2013. ![doi]`10.2200/S00493ED1V01Y201303HLT020`
 * BENDER, Emily M.; LASCARIDES, Alex. Linguistic Fundamentals for Natural Language Processing II: 100 Essentials from Semantics and Pragmatics. **Synthesis Lectures on Human Language Technologies**, v. 12, n. 3, p. 1-268, 2019. ![doi]`10.2200/S00935ED1V02Y201907HLT043`
 * GOLDBERG, Yoav. Neural network methods for natural language processing. **Synthesis Lectures on Human Language Technologies,** v. 10, n. 1, p. 1-309, 2017. ![doi] `10.2200/S00762ED1V01Y201703HLT037`
 * HUTCHINS, William John; SOMERS, Harold L. **An introduction to machine translation.** London: Academic Press, 1992. [[download pdf]](http://www.hutchinsweb.me.uk/IntroMT-TOC.htm)
